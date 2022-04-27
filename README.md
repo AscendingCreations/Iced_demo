@@ -1,2 +1,1 @@
-# Iced_demo
-Item Editor
+# Iced Demo Item Editor
